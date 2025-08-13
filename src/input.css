@@ -5,3 +5,33 @@
     font-family: 'Open Sans';
 }
 
+.facebook {
+    fill: white;
+    cursor: pointer;
+}
+
+.facebook:hover {
+    fill: hsl(300,69%,71%);
+}
+
+.twitter {
+    fill: white;
+    width: 3em;
+    height: 3em;
+    cursor: pointer;
+}
+
+.twitter:hover {
+    fill: hsl(300,69%,71%);
+}
+
+.instagram {
+    fill: white;
+    width: 3em;
+    height: 3em;
+    cursor: pointer;
+}
+
+.instagram:hover {
+    fill: hsl(300,69%,71%);
+}
