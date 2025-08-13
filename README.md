@@ -1,6 +1,4 @@
-# Frontend Mentor - Social Link Profile
-
-!(./preview.jpg)
+# Frontend Mentor - Huddle Landing Page
 
 ## Links
 
